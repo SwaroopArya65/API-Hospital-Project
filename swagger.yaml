@@ -4,7 +4,7 @@ info:
   description: |-
     A Server-side API built on NodeJS and MongoDB for hospital doctors to keep track of their patients with Covid19 test reports.
 
-    [Github](https://github.com/tejash023/hospital-api) 
+    [Github](https://github.com/SwaroopArya65/API-Hospital-Project.git) 
 
   contact: {}
   version: '2.0'
